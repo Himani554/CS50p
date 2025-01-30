@@ -4,13 +4,15 @@ This repository contains my solutions to the problem sets from the CS50 Introduc
 
 Contents
 Problem Sets
-Problem Set 0: Functions, Conditionals, and Variables
-Problem Set 1: Loops and Iterations
-Problem Set 2: File I/O and Exceptions
-Problem Set 3: Regular Expressions
-Problem Set 4: Data Structures (Lists, Dictionaries, and Sets)
-Problem Set 5: Object-Oriented Programming
-Problem Set 6: Libraries and APIs
+Problem Set 0: Functions, Variables
+Problem Set 1: Conditionals
+Problem Set 2: Loops and Iterations
+Problem Set 3: Exceptions
+Problem Set 4: Libraries and APIs
+Problem Set 5: Unit Tests
+Problem Set 6: File I/O
+Problem Set 7: Regular Expressions
+Problem Set 8: Object-Oriented Programming
 Final Project: Student Data Management System
 A Python-based system that:
 
